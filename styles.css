@@ -1,0 +1,19 @@
+#maoriQuote {
+  text-align: center;
+  font-family: "Georgia";
+  font-size: 26px;
+  padding: 30px;
+}
+
+#englishTrans {
+  text-align: center;
+  font-family: "Georgia";
+  font-style: italic;
+  font-size: 12px;
+  color: #fcd000;
+  padding: 30px;
+}
+
+input {
+
+}
